@@ -1,0 +1,14 @@
+name: 🧰 New tool idea
+description: Suggest a JSON tool we should build
+labels: [new-tool]
+body:
+  - type: input
+    id: name
+    attributes: { label: Tool, placeholder: "e.g. JSON Schema validator, JWT decoder, YAML ⇄ JSON" }
+    validations: { required: true }
+  - type: textarea
+    id: why
+    attributes:
+      label: What would you use it for?
+      description: Which tool do you use today, and what's annoying about it?
+    validations: { required: true }

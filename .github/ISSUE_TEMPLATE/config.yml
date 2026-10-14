@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://curlyjson.com/docs
+    about: How each tool works, tips and FAQs
+  - name: ✉️ Email feedback (no GitHub account needed)
+    url: mailto:feedback@curlyjson.com
+    about: Write to feedback@curlyjson.com

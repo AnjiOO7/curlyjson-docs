@@ -1,0 +1,19 @@
+name: ✨ Feature request
+description: Improve an existing tool
+labels: [enhancement]
+body:
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Tool
+      options: [JSON Formatter, JSON Diff, JSON to Code, CSV & Excel, AI features, Docs / website, Other]
+    validations: { required: true }
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the problem or workflow — this helps more than a specific solution.
+    validations: { required: true }
+  - type: textarea
+    id: idea
+    attributes: { label: Your idea }

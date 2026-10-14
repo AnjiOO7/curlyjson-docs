@@ -1,0 +1,30 @@
+name: 🐞 Bug report
+description: Something doesn't work or looks wrong
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve CurlyJSON! Please **don't paste real secrets or customer data** — use a small, anonymised example.
+  - type: dropdown
+    id: tool
+    attributes:
+      label: Tool
+      options: [JSON Formatter, JSON Diff, JSON to Code, CSV & Excel, AI features, Docs / website, Other]
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Page URL, placeholder: "https://curlyjson.com/json-to-go" }
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations: { required: true }
+  - type: textarea
+    id: example
+    attributes:
+      label: Example input (anonymised)
+      render: json
+  - type: input
+    id: env
+    attributes: { label: Browser and OS, placeholder: "Chrome 154 on macOS 14" }
