@@ -4,5 +4,5 @@ contact_links:
     url: https://curlyjson.com/docs
     about: How each tool works, tips and FAQs
   - name: ✉️ Email feedback (no GitHub account needed)
-    url: mailto:feedback@curlyjson.com
-    about: Write to feedback@curlyjson.com
+    url: https://curlyjson.com/docs/feedback
+    about: Write to feedback@curlyjson.com — GitHub only allows web links here
