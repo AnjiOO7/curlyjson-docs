@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://curlyjson.com"><img src="https://curlyjson.com/favicon.svg" width="72" height="72" alt="CurlyJSON logo"></a>
+  <a href="https://curlyjson.com"><img src="assets/logo.png" width="72" height="72" alt="CurlyJSON logo"></a>
 </p>
 
 <h1 align="center">CurlyJSON</h1>
