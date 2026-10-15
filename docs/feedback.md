@@ -14,6 +14,10 @@ We read everything. Pick whichever is easiest:
 
 You can also browse [existing issues](https://github.com/AnjiOO7/curlyjson-docs/issues) and add a 👍 to the ones you care about — we use that to prioritise.
 
+## On Reddit
+
+Ask questions, share tips and suggest tools in **[r/CurlyJSON](https://www.reddit.com/r/CurlyJSON/)**.
+
 ## By email
 
 No GitHub account? Write to **[feedback@curlyjson.com](mailto:feedback@curlyjson.com)**.

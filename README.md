@@ -49,7 +49,7 @@
 
 - X: [@curlyjsonhq](https://x.com/curlyjsonhq)
 - LinkedIn: [CurlyJSON](https://www.linkedin.com/company/curlyjson/)
-- Reddit: [u/curlyjson](https://www.reddit.com/user/curlyjson/)
+- Reddit: [r/CurlyJSON](https://www.reddit.com/r/CurlyJSON/) (community) · [u/curlyjson](https://www.reddit.com/user/curlyjson/)
 
 ## Feedback
 
