@@ -45,6 +45,10 @@
 - [Keyboard shortcuts](docs/shortcuts.md)
 - [Feedback & support](docs/feedback.md)
 
+## Follow
+
+- X: [@curlyjsonhq](https://x.com/curlyjsonhq)
+
 ## Feedback
 
 - 🐞 **Bug?** [Open a bug report](https://github.com/AnjiOO7/curlyjson-docs/issues/new?template=bug_report.yml)
