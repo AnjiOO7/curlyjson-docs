@@ -48,6 +48,7 @@
 ## Follow
 
 - X: [@curlyjsonhq](https://x.com/curlyjsonhq)
+- LinkedIn: [CurlyJSON](https://www.linkedin.com/company/curlyjson/)
 
 ## Feedback
 
