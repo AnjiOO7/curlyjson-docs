@@ -4,7 +4,7 @@ labels: [new-tool]
 body:
   - type: input
     id: name
-    attributes: { label: Tool, placeholder: "e.g. JSON Schema validator, JWT decoder, YAML ⇄ JSON" }
+    attributes: { label: Tool, placeholder: "e.g. JSON Schema validator, JSON to SQL, OpenAPI viewer" }
     validations: { required: true }
   - type: textarea
     id: why

@@ -25,6 +25,8 @@ On-device AI (desktop Chrome) runs locally — see [AI features](ai.md).
 
 We use **Cloudflare Web Analytics**, which counts page views **without cookies** and without tracking you across sites. It never sees what you paste.
 
+We also keep **anonymous usage counts** — which tool buttons are used (e.g. *Copy* on JSON to CSV) and the visitor's country — so we know which features matter. They never include your data, your IP address, or any identifier.
+
 ## Security
 
 - The site is served over HTTPS only, with a strict Content Security Policy.

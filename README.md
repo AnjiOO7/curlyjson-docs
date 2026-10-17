@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Fast, private JSON tools that run entirely in your browser.</b><br>
-  Format · Validate · Repair · Diff · JSON to Code (27 languages) · CSV &amp; Excel · free on-device AI
+  Format · Validate · Repair · Diff · JSON to Code (27 languages) · CSV &amp; Excel · YAML, XML &amp; TOML · JSONPath · JWT · free on-device AI
 </p>
 
 <p align="center">
@@ -25,6 +25,9 @@
 | [**JSON Diff**](https://curlyjson.com/json-diff) | Compare two JSON documents by structure — key order ignored, array items matched by id, timestamps ignorable; Markdown report and JSON Patch |
 | [**JSON to Code**](https://curlyjson.com/json-to-typescript) | Types and classes in 27 languages: TypeScript, Zod, Go, Python, Java, C#, Kotlin, Rust, Swift, Dart… |
 | [**CSV & Excel**](https://curlyjson.com/json-to-csv) | JSON → CSV / .xlsx and back, with nested data flattened or rebuilt and identifiers kept safe |
+| [**YAML, XML & TOML**](https://curlyjson.com/json-to-yaml) | JSON ⇄ YAML, XML and TOML — anchors and multi-doc YAML, XML attributes, exact numbers, errors with line numbers |
+| [**JSONPath Playground**](https://curlyjson.com/jsonpath) | Query JSON with standard RFC 9535 JSONPath, live results and a copyable path for every match |
+| [**JWT Decoder**](https://curlyjson.com/jwt-decoder) | Decode JSON Web Tokens, read exp/iat as dates, verify HS/RS/PS/ES/EdDSA signatures — tokens never leave the browser |
 
 ## Why CurlyJSON
 
@@ -40,6 +43,9 @@
 - [JSON Diff](docs/json-diff.md)
 - [JSON to Code](docs/json-to-code.md)
 - [CSV & Excel](docs/csv-excel.md)
+- [YAML, XML & TOML](docs/yaml-xml-toml.md)
+- [JSONPath](docs/jsonpath.md)
+- [JWT Decoder](docs/jwt-decoder.md)
 - [AI features](docs/ai.md)
 - [Privacy & security](docs/privacy.md)
 - [Keyboard shortcuts](docs/shortcuts.md)

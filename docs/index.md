@@ -12,6 +12,9 @@
 | **JSON Diff** | Compare two JSON documents — only real changes, array items matched by id | [/json-diff](https://curlyjson.com/json-diff) |
 | **JSON to Code** | Generate types in 27 languages: TypeScript, Zod, Go, Python, Java, C#… | [/json-to-typescript](https://curlyjson.com/json-to-typescript) |
 | **CSV & Excel** | JSON → CSV / Excel and back, with nested data flattened or rebuilt | [/json-to-csv](https://curlyjson.com/json-to-csv) |
+| **YAML, XML & TOML** | Convert JSON to YAML, XML or TOML and back, with exact numbers and clear errors | [/json-to-yaml](https://curlyjson.com/json-to-yaml) |
+| **JSONPath Playground** | Query JSON with standard RFC 9535 JSONPath, see every match and its path | [/jsonpath](https://curlyjson.com/jsonpath) |
+| **JWT Decoder** | Decode JSON Web Tokens, read claims as dates, verify signatures | [/jwt-decoder](https://curlyjson.com/jwt-decoder) |
 
 ## Things that work everywhere
 

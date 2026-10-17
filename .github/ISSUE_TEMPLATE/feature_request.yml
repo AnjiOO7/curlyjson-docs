@@ -6,7 +6,7 @@ body:
     id: tool
     attributes:
       label: Tool
-      options: [JSON Formatter, JSON Diff, JSON to Code, CSV & Excel, AI features, Docs / website, Other]
+      options: [JSON Formatter, JSON Diff, JSON to Code, CSV & Excel, YAML / XML / TOML, JSONPath, JWT Decoder, AI features, Docs / website, Other]
     validations: { required: true }
   - type: textarea
     id: problem
