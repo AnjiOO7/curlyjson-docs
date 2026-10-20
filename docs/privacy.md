@@ -13,6 +13,16 @@ Formatting, validation, repair, diffing, code generation and CSV/Excel conversio
 - Your **last input and settings** for each tool are kept in your browser's local storage, so they're there when you return. **Clear** removes the input; clearing your browser data removes everything.
 - Nothing is stored on our side.
 
+## Works offline
+
+After your first visit, your browser keeps a copy of the site's own files, so **every tool works with no internet connection**. That's also the easiest way to check our privacy promise: turn off Wi-Fi, reload, and keep working. Nothing you paste can be sent anywhere.
+
+The copy contains only our pages, scripts and styles — never your data. It updates itself when we release a new version, and is skipped when your browser's Data Saver is on. Chrome and Edge also offer **Install app**, which opens CurlyJSON in its own window.
+
+## Secrets
+
+CurlyJSON spots API keys, tokens, passwords and private keys in what you paste. The Formatter offers to mask them, and every **Share** button warns before putting them in a link. See [Hiding secrets](secrets.md).
+
 ## Share links
 
 A share link contains a **compressed copy of your data after the `#`** in the URL. Browsers never send that part to any server, so we never see it — but **anyone you send the link to can read the data**. Don't share links containing secrets.

@@ -14,7 +14,10 @@
 | **CSV & Excel** | JSON → CSV / Excel and back, with nested data flattened or rebuilt | [/json-to-csv](https://curlyjson.com/json-to-csv) |
 | **YAML, XML & TOML** | Convert JSON to YAML, XML or TOML and back, with exact numbers and clear errors | [/json-to-yaml](https://curlyjson.com/json-to-yaml) |
 | **JSONPath Playground** | Query JSON with standard RFC 9535 JSONPath, see every match and its path | [/jsonpath](https://curlyjson.com/jsonpath) |
+| **JSON Schema Validator** | Check JSON against a schema, list every error with its path, generate a schema | [/json-schema-validator](https://curlyjson.com/json-schema-validator) |
+| **jq Playground** | Run jq filters live with the real jq 1.8, raw/compact/slurp options, NDJSON | [/jq-playground](https://curlyjson.com/jq-playground) |
 | **JWT Decoder** | Decode JSON Web Tokens, read claims as dates, verify signatures | [/jwt-decoder](https://curlyjson.com/jwt-decoder) |
+| **Browser extension** | Formats JSON pages and API responses in Chrome & Edge: tree, search, copy paths, secret warnings | [Add to Chrome](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj) · [docs](extension.md) |
 
 ## Things that work everywhere
 
@@ -28,4 +31,5 @@
 
 - New to the formatter? Start with [JSON Formatter](json-formatter.md).
 - Comparing API responses? See [JSON Diff](json-diff.md).
+- Reading API responses in the browser? Get the [browser extension](extension.md).
 - Something not working? [Tell us](feedback.md).
