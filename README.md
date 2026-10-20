@@ -30,6 +30,7 @@
 | [**jq Playground**](https://curlyjson.com/jq-playground) | Run jq filters live with the real jq 1.8 in the browser: -r -c -s -n -S, NDJSON, exact big numbers |
 | [**JSON Schema Validator**](https://curlyjson.com/json-schema-validator) | Validate JSON against draft 4, 7, 2019-09 or 2020-12 schemas, every error with its path, generate a schema from JSON |
 | [**JWT Decoder**](https://curlyjson.com/jwt-decoder) | Decode JSON Web Tokens, read exp/iat as dates, verify HS/RS/PS/ES/EdDSA signatures — tokens never leave the browser |
+| [**Browser extension**](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj) | Chrome & Edge: JSON pages and API responses as a searchable tree, copyable paths, exact big numbers, secret warnings; no tracking, no network requests |
 
 ## Why CurlyJSON
 
