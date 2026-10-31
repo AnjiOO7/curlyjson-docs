@@ -26,6 +26,8 @@ Strings that older YAML parsers would misread are quoted. `"yes"`, `"no"`, `"on"
 - Anchors (`&name`), aliases (`*name`) and merge keys (`<<: *name`) are expanded.
 - Dates such as `2026-10-15` stay strings.
 - A file with several documents separated by `---` converts only the first one by default. Tick **All documents** to get a JSON array with one item per document.
+- Pasting JSON into **YAML → JSON** works too (JSON is valid YAML): it's read as JSON, which is much faster for large documents.
+- Files open up to 10 MB, or with [Pro](https://curlyjson.com/pro) up to 20 MB for YAML (slow to process in a browser) and 50 MB for XML and TOML.
 - Errors show the line and column, and the line is highlighted.
 
 ## XML

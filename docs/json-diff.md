@@ -43,3 +43,4 @@ When a field that looks like a timestamp or request id changes, CurlyJSON sugges
 - **Copy report** copies a Markdown table you can paste into Jira, GitHub or Slack.
 - **Share** creates a link containing both documents.
 - **Swap** exchanges A and B. Drop **two files at once** to fill both sides.
+- Each side opens files up to 10 MB, or up to 30 MB with [Pro](https://curlyjson.com/pro). Large files may temporarily slow or pause your browser.

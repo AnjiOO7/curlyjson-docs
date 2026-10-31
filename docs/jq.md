@@ -63,4 +63,4 @@ A filter that never finishes, such as `range(1e10)`, is stopped after a few seco
 
 ## Privacy
 
-jq runs in your browser and works offline. Nothing is uploaded. Large numbers such as 64-bit IDs stay exact. **Share** puts the JSON, filter and options in the link after `#`, which is never sent to a server.
+jq runs in your browser and works offline. Nothing is uploaded. It handles files up to 20 MB; above that, jq runs out of memory in the browser. Large numbers such as 64-bit IDs stay exact. **Share** puts the JSON, filter and options in the link after `#`, which is never sent to a server.

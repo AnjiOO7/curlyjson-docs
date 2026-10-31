@@ -2,11 +2,11 @@
 
 # Privacy & security
 
-**Short version: the data you paste never leaves your device.**
+**Short version: the data you paste stays on your device. The only exception is optional Pro cloud AI, which asks for your permission before sending anything.**
 
 ## Processing
 
-Formatting, validation, repair, diffing, code generation and CSV/Excel conversion all run **in your browser**. There is no server that receives your input. This makes CurlyJSON safe for API keys, tokens, customer data and internal configs.
+Formatting, validation, repair, diffing, code generation and CSV/Excel conversion all run **in your browser**. These tools have no server that receives your input. This makes CurlyJSON safe for API keys, tokens, customer data and internal configs.
 
 ## What's stored
 
@@ -15,7 +15,7 @@ Formatting, validation, repair, diffing, code generation and CSV/Excel conversio
 
 ## Works offline
 
-After your first visit, your browser keeps a copy of the site's own files, so **every tool works with no internet connection**. That's also the easiest way to check our privacy promise: turn off Wi-Fi, reload, and keep working. Nothing you paste can be sent anywhere.
+After your first visit, your browser keeps a copy of the site's own files, so **every free tool works with no internet connection** (Pro cloud AI needs one). That's also the easiest way to check our privacy promise: turn off Wi-Fi, reload, and keep working. Nothing you paste is sent anywhere unless you approve a Pro cloud AI request.
 
 The copy contains only our pages, scripts and styles — never your data. It updates itself when we release a new version, and is skipped when your browser's Data Saver is on. Chrome and Edge also offer **Install app**, which opens CurlyJSON in its own window.
 
@@ -30,6 +30,8 @@ A share link contains a **compressed copy of your data after the `#`** in the UR
 ## AI
 
 On-device AI (desktop Chrome) runs locally — see [AI features](ai.md).
+
+AI is part of Pro. In browsers without on-device AI, Pro uses optional cloud AI for browsers without on-device AI. It asks for your permission first and sends only the part of your JSON the AI reads. Details: [privacy policy](https://curlyjson.com/privacy#cloud-ai).
 
 ## Analytics
 

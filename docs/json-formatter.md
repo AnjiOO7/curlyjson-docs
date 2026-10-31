@@ -70,6 +70,6 @@ Most online formatters run your JSON through JavaScript's `JSON.parse`, which **
 
 ## Files and sharing
 
-- **Open file** or drag a `.json` file onto the input (up to 100 MB; 50 MB opens in about 3 seconds).
+- **Open file** or drag a `.json` file onto the input: up to 10 MB, or up to 100 MB with [Pro](https://curlyjson.com/pro). Large files may temporarily slow or pause your browser; how long depends on the file's complexity and your device's memory. Pasting has no Free/Pro limit.
 - **Copy** and **Download** save the formatted output.
 - **Share** copies a link containing your JSON (see [Privacy](privacy.md)).

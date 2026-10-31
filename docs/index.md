@@ -24,6 +24,7 @@
 - **Paste, type, or drop a file** onto any input panel. Most tools also have an **Open** button.
 - **Your last input is remembered** in your browser, so it's still there next time. **Clear** removes it.
 - **Share links** put a compressed copy of your data *after the `#`* in the URL. Browsers never send that part to a server, so we never see it — but anyone with the link can.
+- **Opening a share link** doesn't cost you your own work: what you had in that tool is set aside, and a notice lets you restore it (up to three earlier versions are kept until you restore or dismiss them).
 - **Dark mode** follows your system; switch it with the sun/moon button in the header.
 - **Big numbers stay exact.** IDs like `12345678901234567890` are never rounded, unlike most JSON tools.
 
