@@ -36,7 +36,8 @@ When a field that looks like a timestamp or request id changes, CurlyJSON sugges
 - **Changes** — a list with filters (Added / Removed / Changed / Type). Click a path to copy it.
 - **Side by side** — both documents normalised (keys sorted, ignored fields hidden, matched items aligned) with unchanged parts folded.
 - **JSON Patch** — standard [RFC 6902](https://datatracker.ietf.org/doc/html/rfc6902) operations that turn A into B exactly. Copy or download.
-- **✦ Summary** — a short plain-English summary of the changes ([AI features](ai.md)).
+
+**✦ Summary** (Pro) — a short plain-English summary of the changes ([AI features](ai.md)).
 
 ## Sharing results
 

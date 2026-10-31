@@ -31,7 +31,7 @@ A share link contains a **compressed copy of your data after the `#`** in the UR
 
 On-device AI (desktop Chrome) runs locally — see [AI features](ai.md).
 
-AI is part of Pro. In browsers without on-device AI, Pro uses optional cloud AI for browsers without on-device AI. It asks for your permission first and sends only the part of your JSON the AI reads. Details: [privacy policy](https://curlyjson.com/privacy#cloud-ai).
+AI is part of Pro. In browsers without on-device AI, Pro uses optional cloud AI. It asks for your permission first and sends only the part of your JSON the AI reads. Details: [privacy policy](https://curlyjson.com/privacy#cloud-ai).
 
 ## Analytics
 

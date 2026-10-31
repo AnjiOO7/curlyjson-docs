@@ -2,13 +2,13 @@
 
 # Getting started
 
-**CurlyJSON** is a set of free JSON tools that run **entirely in your browser** — nothing you paste is uploaded. No sign-up, no pop-up ads.
+**CurlyJSON** is a set of free JSON tools that run **entirely in your browser** — nothing you paste is uploaded, except Pro cloud AI requests you approve. No sign-up, no pop-up ads.
 
 ## The tools
 
 | Tool | What it does | Open |
 |---|---|---|
-| **JSON Formatter** | Beautify, minify, validate and repair JSON; tree view; AI explain | [curlyjson.com](https://curlyjson.com/) |
+| **JSON Formatter** | Beautify, minify, validate and repair JSON; tree view; AI Explain | [curlyjson.com](https://curlyjson.com/) |
 | **JSON Diff** | Compare two JSON documents — only real changes, array items matched by id | [/json-diff](https://curlyjson.com/json-diff) |
 | **JSON to Code** | Generate types in 27 languages: TypeScript, Zod, Go, Python, Java, C#… | [/json-to-typescript](https://curlyjson.com/json-to-typescript) |
 | **CSV & Excel** | JSON → CSV / Excel and back, with nested data flattened or rebuilt | [/json-to-csv](https://curlyjson.com/json-to-csv) |

@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Fast, private JSON tools that run entirely in your browser.</b><br>
-  Format · Validate · Repair · Diff · JSON to Code (27 languages) · CSV &amp; Excel · YAML, XML &amp; TOML · JSONPath · jq · JSON Schema · JWT · free on-device AI
+  Format · Validate · Repair · Diff · JSON to Code (27 languages) · CSV &amp; Excel · YAML, XML &amp; TOML · JSONPath · jq · JSON Schema · JWT · AI with Pro
 </p>
 
 <p align="center">
@@ -34,10 +34,10 @@
 
 ## Why CurlyJSON
 
-- **Private by design** — everything runs in your browser; nothing you paste is uploaded.
+- **Private by design** — everything runs in your browser; nothing you paste is uploaded, except Pro cloud AI requests you approve.
 - **No sign-up, no pop-up ads.**
 - **Big-number safe** — 64-bit IDs are never rounded.
-- **Free on-device AI** in desktop Chrome — explain JSON, fix broken JSON, summarise diffs.
+- **AI with [Pro](https://curlyjson.com/pro)** — explain JSON, fix broken JSON, summarise diffs; on-device in desktop Chrome where supported, otherwise cloud AI you approve.
 
 ## Documentation
 

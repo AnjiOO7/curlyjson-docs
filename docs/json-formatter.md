@@ -33,7 +33,7 @@ Common messages:
 
 **Repair JSON** fixes the most common problems in one click: trailing commas, single quotes, unquoted keys, comments, missing commas or brackets, Python-style `True` / `False` / `None`, and JSON wrapped in other text (like an AI chat reply or a log line).
 
-For harder cases, **✦ AI Fix** can repair JSON the rule-based repair can't — see [AI features](ai.md). Always review AI-fixed output.
+For harder cases, **✦ AI Fix** (Pro) can repair JSON the rule-based repair can't — see [AI features](ai.md). Always review AI-fixed output.
 
 ## Tree view
 
