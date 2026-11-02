@@ -17,7 +17,7 @@
 | **JSON Schema Validator** | Check JSON against a schema, list every error with its path, generate a schema | [/json-schema-validator](https://curlyjson.com/json-schema-validator) |
 | **jq Playground** | Run jq filters live with the real jq 1.8, raw/compact/slurp options, NDJSON | [/jq-playground](https://curlyjson.com/jq-playground) |
 | **JWT Decoder** | Decode JSON Web Tokens, read claims as dates, verify signatures | [/jwt-decoder](https://curlyjson.com/jwt-decoder) |
-| **Browser extension** | Formats JSON pages and API responses in Chrome & Edge: tree, search, copy paths, secret warnings | [Add to Chrome](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj) · [docs](extension.md) |
+| **Browser extension** | Formats JSON pages and API responses in Chrome & Edge: tree, search, copy paths, secret warnings | [Add to Chrome](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj) · [Add to Edge](https://microsoftedge.microsoft.com/addons/detail/cnlkblomjgcgnondkidiooanffmhalak) · [docs](extension.md) |
 
 ## Things that work everywhere
 

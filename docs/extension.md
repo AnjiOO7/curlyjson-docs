@@ -4,7 +4,7 @@
 
 The **CurlyJSON extension** formats JSON right in the browser tab: open an API URL and read the response as a tree instead of one long line of text.
 
-**[Add to Chrome — free](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj)** · works in Chrome, Edge, Brave and other Chromium browsers. In Edge, allow extensions from other stores when it asks.
+**[Add to Chrome — free](https://chromewebstore.google.com/detail/cdmifjhednliaikgklceaoifkpcjdonj)** · **[Add to Edge — free](https://microsoftedge.microsoft.com/addons/detail/cnlkblomjgcgnondkidiooanffmhalak)** · also works in Brave and other Chromium browsers through the Chrome Web Store.
 
 ## Format a page
 
