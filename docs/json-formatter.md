@@ -31,7 +31,7 @@ Common messages:
 
 ### Duplicate keys
 
-`{"status": "draft", "status": "published"}` is valid JSON — the standard (RFC 8259) only says keys *should* be unique — so the badge still says **Valid**. But parsers disagree on which value wins: `JSON.parse`, Python and Go silently keep the last one, so `"draft"` disappears. When an object repeats a key, a **duplicate key** warning appears next to the badge; hover it to see each path and line, and click it to jump to each repeat in turn. CurlyJSON never deletes either value — the formatted output and tree keep both, so you decide which one to remove.
+`{"status": "draft", "status": "published"}` is valid JSON — the standard (RFC 8259) only says keys *should* be unique — so the badge still says **Valid**. But parsers disagree on which value wins: `JSON.parse`, Python and Go silently keep the last one, so `"draft"` disappears. When an object repeats a key, a **duplicate key** warning appears next to the badge. Click it to jump to each repeat in turn — the message shows its path, its line and where the key first appeared. CurlyJSON never deletes either value — the formatted output and tree keep both, so you decide which one to remove.
 
 ## Repair
 
